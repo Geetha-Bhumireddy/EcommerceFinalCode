@@ -36,7 +36,7 @@ Follow these steps to run the project locally:
 
    ```sh
    git clone https://github.com/Geetha-Bhumireddy/EcommerceFinalCode.git
-   cd e-commerce-frontend
+   cd EcommerceFinalCode 
    ```
 
 2. **Install dependencies:**
