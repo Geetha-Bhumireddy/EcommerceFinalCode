@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/e-commerce-frontend.git
+   git clone https://github.com/Geetha-Bhumireddy/EcommerceFinalCode.git
    cd e-commerce-frontend
    ```
 
